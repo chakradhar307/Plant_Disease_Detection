@@ -1,5 +1,5 @@
 # 🌿 Plant Disease Detection
-**📌 Overview**
+#**📌 Overview**
 
 This project leverages deep learning techniques to identify and classify plant diseases from leaf images. Utilizing a Convolutional Neural Network (CNN), the model is trained to recognize various plant diseases, aiding in early detection and effective management.
 
